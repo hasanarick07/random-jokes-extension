@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "practice",
+    "version": "0.1.0",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "A.png"
+    },
+    "icons": {
+      "128": "A.png"
+    },
+    "permissions": ["activeTab"]
+  }
+  
